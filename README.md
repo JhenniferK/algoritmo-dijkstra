@@ -15,12 +15,17 @@ No exemplo gerado, o caminho mínimo entre o vértice `1` e o vértice `20` foi:
 
 ## Como Executar
 
-1. Instale as dependências:
+1. Clone o repositório:
+```bash
+git clone https://github.com/JhenniferK/algoritmo-dijkstra/tree/main.git
+```
+
+2. Instale as dependências:
 ```bash
 pip install networkx matplotlib
 ```
 
-2. Execute o script Python:
+3. Execute o script Python:
 ```
 python algoritmo-dijkstra.py
 ```
